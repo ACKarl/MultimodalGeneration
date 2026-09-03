@@ -1,0 +1,912 @@
+Training images: 1409
+Validation images: 156
+Trainable parameters: 5,903,299
+Epoch  51/150 | step    2275 | loss 0.06848 | lr 1.97e-04
+Epoch  51/150 | step    2300 | loss 0.10271 | lr 1.97e-04
+Epoch  51/150 | step    2325 | loss 0.06494 | lr 1.97e-04
+Epoch  51/150 | step    2350 | loss 0.06309 | lr 1.97e-04
+Epoch  51/150 | step    2375 | loss 0.11978 | lr 1.97e-04
+Epoch  51/150 | step    2400 | loss 0.04578 | lr 1.97e-04
+Epoch  51/150 | step    2425 | loss 0.05356 | lr 1.97e-04
+Epoch  51/150 completed in 223.0s | train 0.06234 | validation 0.05679
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  52/150 | step    2450 | loss 0.04580 | lr 1.96e-04
+Epoch  52/150 | step    2475 | loss 0.04660 | lr 1.96e-04
+Epoch  52/150 | step    2500 | loss 0.08059 | lr 1.96e-04
+Epoch  52/150 | step    2525 | loss 0.05436 | lr 1.96e-04
+Epoch  52/150 | step    2550 | loss 0.03850 | lr 1.96e-04
+Epoch  52/150 | step    2575 | loss 0.06981 | lr 1.96e-04
+Epoch  52/150 | step    2600 | loss 0.10329 | lr 1.96e-04
+Epoch  52/150 completed in 253.5s | train 0.05653 | validation 0.05303
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  53/150 | step    2625 | loss 0.05437 | lr 1.96e-04
+Epoch  53/150 | step    2650 | loss 0.04322 | lr 1.96e-04
+Epoch  53/150 | step    2675 | loss 0.04969 | lr 1.96e-04
+Epoch  53/150 | step    2700 | loss 0.07772 | lr 1.96e-04
+Epoch  53/150 | step    2725 | loss 0.06416 | lr 1.96e-04
+Epoch  53/150 | step    2750 | loss 0.08109 | lr 1.95e-04
+Epoch  53/150 | step    2775 | loss 0.10249 | lr 1.95e-04
+Epoch  53/150 completed in 259.2s | train 0.05449 | validation 0.04260
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  54/150 | step    2800 | loss 0.03982 | lr 1.95e-04
+Epoch  54/150 | step    2825 | loss 0.04205 | lr 1.95e-04
+Epoch  54/150 | step    2850 | loss 0.02223 | lr 1.95e-04
+Epoch  54/150 | step    2875 | loss 0.05278 | lr 1.95e-04
+Epoch  54/150 | step    2900 | loss 0.06828 | lr 1.95e-04
+Epoch  54/150 | step    2925 | loss 0.02284 | lr 1.95e-04
+Epoch  54/150 | step    2950 | loss 0.07613 | lr 1.95e-04
+Epoch  54/150 completed in 259.9s | train 0.05252 | validation 0.06528
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  55/150 | step    2975 | loss 0.06521 | lr 1.95e-04
+Epoch  55/150 | step    3000 | loss 0.08156 | lr 1.94e-04
+Epoch  55/150 | step    3025 | loss 0.06865 | lr 1.94e-04
+Epoch  55/150 | step    3050 | loss 0.05883 | lr 1.94e-04
+Epoch  55/150 | step    3075 | loss 0.03301 | lr 1.94e-04
+Epoch  55/150 | step    3100 | loss 0.08331 | lr 1.94e-04
+Epoch  55/150 | step    3125 | loss 0.04450 | lr 1.94e-04
+Epoch  55/150 completed in 260.8s | train 0.05410 | validation 0.05048
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  56/150 | step    3150 | loss 0.05004 | lr 1.94e-04
+Epoch  56/150 | step    3175 | loss 0.04565 | lr 1.94e-04
+Epoch  56/150 | step    3200 | loss 0.04444 | lr 1.94e-04
+Epoch  56/150 | step    3225 | loss 0.04436 | lr 1.94e-04
+Epoch  56/150 | step    3250 | loss 0.01901 | lr 1.93e-04
+Epoch  56/150 | step    3275 | loss 0.04175 | lr 1.93e-04
+Epoch  56/150 | step    3300 | loss 0.04127 | lr 1.93e-04
+Epoch  56/150 completed in 257.2s | train 0.05358 | validation 0.04463
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  57/150 | step    3325 | loss 0.04886 | lr 1.93e-04
+Epoch  57/150 | step    3350 | loss 0.02721 | lr 1.93e-04
+Epoch  57/150 | step    3375 | loss 0.02813 | lr 1.93e-04
+Epoch  57/150 | step    3400 | loss 0.04571 | lr 1.93e-04
+Epoch  57/150 | step    3425 | loss 0.05775 | lr 1.93e-04
+Epoch  57/150 | step    3450 | loss 0.10211 | lr 1.93e-04
+Epoch  57/150 | step    3475 | loss 0.03590 | lr 1.92e-04
+Epoch  57/150 completed in 250.8s | train 0.05276 | validation 0.04876
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  58/150 | step    3500 | loss 0.10243 | lr 1.92e-04
+Epoch  58/150 | step    3525 | loss 0.03720 | lr 1.92e-04
+Epoch  58/150 | step    3550 | loss 0.03476 | lr 1.92e-04
+Epoch  58/150 | step    3575 | loss 0.02662 | lr 1.92e-04
+Epoch  58/150 | step    3600 | loss 0.04492 | lr 1.92e-04
+Epoch  58/150 | step    3625 | loss 0.09535 | lr 1.92e-04
+Epoch  58/150 | step    3650 | loss 0.06499 | lr 1.92e-04
+Epoch  58/150 completed in 250.0s | train 0.05589 | validation 0.04734
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  59/150 | step    3675 | loss 0.11002 | lr 1.92e-04
+Epoch  59/150 | step    3700 | loss 0.07110 | lr 1.91e-04
+Epoch  59/150 | step    3725 | loss 0.03930 | lr 1.91e-04
+Epoch  59/150 | step    3750 | loss 0.02798 | lr 1.91e-04
+Epoch  59/150 | step    3775 | loss 0.04374 | lr 1.91e-04
+Epoch  59/150 | step    3800 | loss 0.03501 | lr 1.91e-04
+Epoch  59/150 | step    3825 | loss 0.06498 | lr 1.91e-04
+Epoch  59/150 completed in 250.3s | train 0.05005 | validation 0.04946
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  60/150 | step    3850 | loss 0.04155 | lr 1.91e-04
+Epoch  60/150 | step    3875 | loss 0.04080 | lr 1.91e-04
+Epoch  60/150 | step    3900 | loss 0.02906 | lr 1.90e-04
+Epoch  60/150 | step    3925 | loss 0.03631 | lr 1.90e-04
+Epoch  60/150 | step    3950 | loss 0.04373 | lr 1.90e-04
+Epoch  60/150 | step    3975 | loss 0.05847 | lr 1.90e-04
+Epoch  60/150 | step    4000 | loss 0.02785 | lr 1.90e-04
+Epoch  60/150 completed in 250.8s | train 0.05011 | validation 0.05178
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  61/150 | step    4025 | loss 0.04073 | lr 1.90e-04
+Epoch  61/150 | step    4050 | loss 0.02927 | lr 1.90e-04
+Epoch  61/150 | step    4075 | loss 0.05230 | lr 1.90e-04
+Epoch  61/150 | step    4100 | loss 0.04870 | lr 1.89e-04
+Epoch  61/150 | step    4125 | loss 0.03896 | lr 1.89e-04
+Epoch  61/150 | step    4150 | loss 0.05198 | lr 1.89e-04
+Epoch  61/150 | step    4175 | loss 0.03228 | lr 1.89e-04
+Epoch  61/150 completed in 250.3s | train 0.04912 | validation 0.05013
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  62/150 | step    4200 | loss 0.06194 | lr 1.89e-04
+Epoch  62/150 | step    4225 | loss 0.04731 | lr 1.89e-04
+Epoch  62/150 | step    4250 | loss 0.04972 | lr 1.89e-04
+Epoch  62/150 | step    4275 | loss 0.04962 | lr 1.88e-04
+Epoch  62/150 | step    4300 | loss 0.06020 | lr 1.88e-04
+Epoch  62/150 | step    4325 | loss 0.04336 | lr 1.88e-04
+Epoch  62/150 | step    4350 | loss 0.07843 | lr 1.88e-04
+Epoch  62/150 completed in 252.2s | train 0.05121 | validation 0.05141
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  63/150 | step    4375 | loss 0.02868 | lr 1.88e-04
+Epoch  63/150 | step    4400 | loss 0.03519 | lr 1.88e-04
+Epoch  63/150 | step    4425 | loss 0.04156 | lr 1.88e-04
+Epoch  63/150 | step    4450 | loss 0.04412 | lr 1.87e-04
+Epoch  63/150 | step    4475 | loss 0.02873 | lr 1.87e-04
+Epoch  63/150 | step    4500 | loss 0.08596 | lr 1.87e-04
+Epoch  63/150 | step    4525 | loss 0.05056 | lr 1.87e-04
+Epoch  63/150 | step    4550 | loss 0.03295 | lr 1.87e-04
+Epoch  63/150 completed in 251.8s | train 0.05156 | validation 0.04528
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  64/150 | step    4575 | loss 0.06425 | lr 1.87e-04
+Epoch  64/150 | step    4600 | loss 0.06067 | lr 1.87e-04
+Epoch  64/150 | step    4625 | loss 0.10131 | lr 1.86e-04
+Epoch  64/150 | step    4650 | loss 0.06114 | lr 1.86e-04
+Epoch  64/150 | step    4675 | loss 0.03377 | lr 1.86e-04
+Epoch  64/150 | step    4700 | loss 0.05189 | lr 1.86e-04
+Epoch  64/150 | step    4725 | loss 0.04631 | lr 1.86e-04
+Epoch  64/150 completed in 252.2s | train 0.04942 | validation 0.04128
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  65/150 | step    4750 | loss 0.02523 | lr 1.86e-04
+Epoch  65/150 | step    4775 | loss 0.02985 | lr 1.85e-04
+Epoch  65/150 | step    4800 | loss 0.01758 | lr 1.85e-04
+Epoch  65/150 | step    4825 | loss 0.05878 | lr 1.85e-04
+Epoch  65/150 | step    4850 | loss 0.02555 | lr 1.85e-04
+Epoch  65/150 | step    4875 | loss 0.03927 | lr 1.85e-04
+Epoch  65/150 | step    4900 | loss 0.03454 | lr 1.85e-04
+Epoch  65/150 completed in 249.8s | train 0.04648 | validation 0.04667
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  66/150 | step    4925 | loss 0.05297 | lr 1.85e-04
+Epoch  66/150 | step    4950 | loss 0.05459 | lr 1.84e-04
+Epoch  66/150 | step    4975 | loss 0.06199 | lr 1.84e-04
+Epoch  66/150 | step    5000 | loss 0.05900 | lr 1.84e-04
+Epoch  66/150 | step    5025 | loss 0.06318 | lr 1.84e-04
+Epoch  66/150 | step    5050 | loss 0.05613 | lr 1.84e-04
+Epoch  66/150 | step    5075 | loss 0.08388 | lr 1.84e-04
+Epoch  66/150 completed in 250.1s | train 0.04989 | validation 0.04782
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  67/150 | step    5100 | loss 0.04164 | lr 1.83e-04
+Epoch  67/150 | step    5125 | loss 0.02121 | lr 1.83e-04
+Epoch  67/150 | step    5150 | loss 0.03140 | lr 1.83e-04
+Epoch  67/150 | step    5175 | loss 0.05239 | lr 1.83e-04
+Epoch  67/150 | step    5200 | loss 0.02467 | lr 1.83e-04
+Epoch  67/150 | step    5225 | loss 0.05223 | lr 1.83e-04
+Epoch  67/150 | step    5250 | loss 0.03833 | lr 1.82e-04
+Epoch  67/150 completed in 250.0s | train 0.04729 | validation 0.04593
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  68/150 | step    5275 | loss 0.03781 | lr 1.82e-04
+Epoch  68/150 | step    5300 | loss 0.07253 | lr 1.82e-04
+Epoch  68/150 | step    5325 | loss 0.03736 | lr 1.82e-04
+Epoch  68/150 | step    5350 | loss 0.03091 | lr 1.82e-04
+Epoch  68/150 | step    5375 | loss 0.03262 | lr 1.82e-04
+Epoch  68/150 | step    5400 | loss 0.03901 | lr 1.81e-04
+Epoch  68/150 | step    5425 | loss 0.03051 | lr 1.81e-04
+Epoch  68/150 completed in 248.8s | train 0.04668 | validation 0.05042
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  69/150 | step    5450 | loss 0.05399 | lr 1.81e-04
+Epoch  69/150 | step    5475 | loss 0.05812 | lr 1.81e-04
+Epoch  69/150 | step    5500 | loss 0.07706 | lr 1.81e-04
+Epoch  69/150 | step    5525 | loss 0.07853 | lr 1.81e-04
+Epoch  69/150 | step    5550 | loss 0.04571 | lr 1.80e-04
+Epoch  69/150 | step    5575 | loss 0.03416 | lr 1.80e-04
+Epoch  69/150 | step    5600 | loss 0.01521 | lr 1.80e-04
+Epoch  69/150 completed in 247.8s | train 0.04944 | validation 0.04000
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  70/150 | step    5625 | loss 0.08948 | lr 1.80e-04
+Epoch  70/150 | step    5650 | loss 0.04032 | lr 1.80e-04
+Epoch  70/150 | step    5675 | loss 0.02338 | lr 1.79e-04
+Epoch  70/150 | step    5700 | loss 0.04708 | lr 1.79e-04
+Epoch  70/150 | step    5725 | loss 0.04438 | lr 1.79e-04
+Epoch  70/150 | step    5750 | loss 0.06678 | lr 1.79e-04
+Epoch  70/150 | step    5775 | loss 0.06247 | lr 1.79e-04
+Epoch  70/150 completed in 248.2s | train 0.04449 | validation 0.05322
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  71/150 | step    5800 | loss 0.06993 | lr 1.79e-04
+Epoch  71/150 | step    5825 | loss 0.04996 | lr 1.78e-04
+Epoch  71/150 | step    5850 | loss 0.05284 | lr 1.78e-04
+Epoch  71/150 | step    5875 | loss 0.02212 | lr 1.78e-04
+Epoch  71/150 | step    5900 | loss 0.02995 | lr 1.78e-04
+Epoch  71/150 | step    5925 | loss 0.02932 | lr 1.78e-04
+Epoch  71/150 | step    5950 | loss 0.06034 | lr 1.77e-04
+Epoch  71/150 completed in 230.0s | train 0.05072 | validation 0.04388
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  72/150 | step    5975 | loss 0.04801 | lr 1.77e-04
+Epoch  72/150 | step    6000 | loss 0.04562 | lr 1.77e-04
+Epoch  72/150 | step    6025 | loss 0.08728 | lr 1.77e-04
+Epoch  72/150 | step    6050 | loss 0.04113 | lr 1.77e-04
+Epoch  72/150 | step    6075 | loss 0.04773 | lr 1.76e-04
+Epoch  72/150 | step    6100 | loss 0.05106 | lr 1.76e-04
+Epoch  72/150 | step    6125 | loss 0.01708 | lr 1.76e-04
+Epoch  72/150 completed in 224.4s | train 0.04859 | validation 0.04714
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  73/150 | step    6150 | loss 0.09408 | lr 1.76e-04
+Epoch  73/150 | step    6175 | loss 0.03733 | lr 1.76e-04
+Epoch  73/150 | step    6200 | loss 0.06508 | lr 1.75e-04
+Epoch  73/150 | step    6225 | loss 0.04016 | lr 1.75e-04
+Epoch  73/150 | step    6250 | loss 0.05570 | lr 1.75e-04
+Epoch  73/150 | step    6275 | loss 0.09515 | lr 1.75e-04
+Epoch  73/150 | step    6300 | loss 0.05334 | lr 1.75e-04
+Epoch  73/150 completed in 223.1s | train 0.04583 | validation 0.04445
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  74/150 | step    6325 | loss 0.03770 | lr 1.75e-04
+Epoch  74/150 | step    6350 | loss 0.05235 | lr 1.74e-04
+Epoch  74/150 | step    6375 | loss 0.03657 | lr 1.74e-04
+Epoch  74/150 | step    6400 | loss 0.06514 | lr 1.74e-04
+Epoch  74/150 | step    6425 | loss 0.04416 | lr 1.74e-04
+Epoch  74/150 | step    6450 | loss 0.05410 | lr 1.73e-04
+Epoch  74/150 | step    6475 | loss 0.07701 | lr 1.73e-04
+Epoch  74/150 completed in 223.2s | train 0.04867 | validation 0.04793
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  75/150 | step    6500 | loss 0.04636 | lr 1.73e-04
+Epoch  75/150 | step    6525 | loss 0.04400 | lr 1.73e-04
+Epoch  75/150 | step    6550 | loss 0.04164 | lr 1.73e-04
+Epoch  75/150 | step    6575 | loss 0.08697 | lr 1.72e-04
+Epoch  75/150 | step    6600 | loss 0.03504 | lr 1.72e-04
+Epoch  75/150 | step    6625 | loss 0.05501 | lr 1.72e-04
+Epoch  75/150 | step    6650 | loss 0.04607 | lr 1.72e-04
+Epoch  75/150 | step    6675 | loss 0.07434 | lr 1.72e-04
+Epoch  75/150 completed in 226.4s | train 0.04733 | validation 0.04074
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  76/150 | step    6700 | loss 0.03483 | lr 1.71e-04
+Epoch  76/150 | step    6725 | loss 0.03868 | lr 1.71e-04
+Epoch  76/150 | step    6750 | loss 0.04853 | lr 1.71e-04
+Epoch  76/150 | step    6775 | loss 0.04455 | lr 1.71e-04
+Epoch  76/150 | step    6800 | loss 0.03743 | lr 1.71e-04
+Epoch  76/150 | step    6825 | loss 0.05830 | lr 1.70e-04
+Epoch  76/150 | step    6850 | loss 0.02262 | lr 1.70e-04
+Epoch  76/150 completed in 226.6s | train 0.04550 | validation 0.04317
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  77/150 | step    6875 | loss 0.03623 | lr 1.70e-04
+Epoch  77/150 | step    6900 | loss 0.03027 | lr 1.70e-04
+Epoch  77/150 | step    6925 | loss 0.07690 | lr 1.70e-04
+Epoch  77/150 | step    6950 | loss 0.06456 | lr 1.69e-04
+Epoch  77/150 | step    6975 | loss 0.05277 | lr 1.69e-04
+Epoch  77/150 | step    7000 | loss 0.04174 | lr 1.69e-04
+Epoch  77/150 | step    7025 | loss 0.04212 | lr 1.69e-04
+Epoch  77/150 completed in 235.6s | train 0.04563 | validation 0.04446
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  78/150 | step    7050 | loss 0.01542 | lr 1.68e-04
+Epoch  78/150 | step    7075 | loss 0.02720 | lr 1.68e-04
+Epoch  78/150 | step    7100 | loss 0.05408 | lr 1.68e-04
+Epoch  78/150 | step    7125 | loss 0.05874 | lr 1.68e-04
+Epoch  78/150 | step    7150 | loss 0.04647 | lr 1.68e-04
+Epoch  78/150 | step    7175 | loss 0.03358 | lr 1.67e-04
+Epoch  78/150 | step    7200 | loss 0.08120 | lr 1.67e-04
+Epoch  78/150 completed in 261.9s | train 0.04683 | validation 0.03977
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  79/150 | step    7225 | loss 0.02547 | lr 1.67e-04
+Epoch  79/150 | step    7250 | loss 0.03603 | lr 1.67e-04
+Epoch  79/150 | step    7275 | loss 0.05585 | lr 1.66e-04
+Epoch  79/150 | step    7300 | loss 0.03539 | lr 1.66e-04
+Epoch  79/150 | step    7325 | loss 0.02956 | lr 1.66e-04
+Epoch  79/150 | step    7350 | loss 0.05620 | lr 1.66e-04
+Epoch  79/150 | step    7375 | loss 0.06015 | lr 1.66e-04
+Epoch  79/150 completed in 261.6s | train 0.04411 | validation 0.04622
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  80/150 | step    7400 | loss 0.04431 | lr 1.65e-04
+Epoch  80/150 | step    7425 | loss 0.04345 | lr 1.65e-04
+Epoch  80/150 | step    7450 | loss 0.04197 | lr 1.65e-04
+Epoch  80/150 | step    7475 | loss 0.03396 | lr 1.65e-04
+Epoch  80/150 | step    7500 | loss 0.02562 | lr 1.64e-04
+Epoch  80/150 | step    7525 | loss 0.05045 | lr 1.64e-04
+Epoch  80/150 | step    7550 | loss 0.05799 | lr 1.64e-04
+Epoch  80/150 completed in 261.8s | train 0.04398 | validation 0.04142
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  81/150 | step    7575 | loss 0.03674 | lr 1.64e-04
+Epoch  81/150 | step    7600 | loss 0.03012 | lr 1.64e-04
+Epoch  81/150 | step    7625 | loss 0.02219 | lr 1.63e-04
+Epoch  81/150 | step    7650 | loss 0.03990 | lr 1.63e-04
+Epoch  81/150 | step    7675 | loss 0.02703 | lr 1.63e-04
+Epoch  81/150 | step    7700 | loss 0.05232 | lr 1.63e-04
+Epoch  81/150 | step    7725 | loss 0.04312 | lr 1.62e-04
+Epoch  81/150 completed in 262.0s | train 0.04566 | validation 0.04334
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  82/150 | step    7750 | loss 0.04800 | lr 1.62e-04
+Epoch  82/150 | step    7775 | loss 0.02221 | lr 1.62e-04
+Epoch  82/150 | step    7800 | loss 0.05331 | lr 1.62e-04
+Epoch  82/150 | step    7825 | loss 0.09766 | lr 1.61e-04
+Epoch  82/150 | step    7850 | loss 0.03589 | lr 1.61e-04
+Epoch  82/150 | step    7875 | loss 0.01664 | lr 1.61e-04
+Epoch  82/150 | step    7900 | loss 0.02686 | lr 1.61e-04
+Epoch  82/150 completed in 261.7s | train 0.04391 | validation 0.04809
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  83/150 | step    7925 | loss 0.11402 | lr 1.61e-04
+Epoch  83/150 | step    7950 | loss 0.04133 | lr 1.60e-04
+Epoch  83/150 | step    7975 | loss 0.02932 | lr 1.60e-04
+Epoch  83/150 | step    8000 | loss 0.02913 | lr 1.60e-04
+Epoch  83/150 | step    8025 | loss 0.05941 | lr 1.60e-04
+Epoch  83/150 | step    8050 | loss 0.04471 | lr 1.59e-04
+Epoch  83/150 | step    8075 | loss 0.05451 | lr 1.59e-04
+Epoch  83/150 completed in 262.7s | train 0.04593 | validation 0.04454
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  84/150 | step    8100 | loss 0.04920 | lr 1.59e-04
+Epoch  84/150 | step    8125 | loss 0.05684 | lr 1.59e-04
+Epoch  84/150 | step    8150 | loss 0.07266 | lr 1.58e-04
+Epoch  84/150 | step    8175 | loss 0.04342 | lr 1.58e-04
+Epoch  84/150 | step    8200 | loss 0.02145 | lr 1.58e-04
+Epoch  84/150 | step    8225 | loss 0.04125 | lr 1.58e-04
+Epoch  84/150 | step    8250 | loss 0.03332 | lr 1.57e-04
+Epoch  84/150 completed in 261.9s | train 0.04304 | validation 0.04483
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  85/150 | step    8275 | loss 0.03984 | lr 1.57e-04
+Epoch  85/150 | step    8300 | loss 0.09645 | lr 1.57e-04
+Epoch  85/150 | step    8325 | loss 0.06534 | lr 1.57e-04
+Epoch  85/150 | step    8350 | loss 0.02981 | lr 1.56e-04
+Epoch  85/150 | step    8375 | loss 0.05152 | lr 1.56e-04
+Epoch  85/150 | step    8400 | loss 0.02415 | lr 1.56e-04
+Epoch  85/150 | step    8425 | loss 0.03526 | lr 1.56e-04
+Epoch  85/150 completed in 263.4s | train 0.04538 | validation 0.04106
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  86/150 | step    8450 | loss 0.03990 | lr 1.55e-04
+Epoch  86/150 | step    8475 | loss 0.06738 | lr 1.55e-04
+Epoch  86/150 | step    8500 | loss 0.04215 | lr 1.55e-04
+Epoch  86/150 | step    8525 | loss 0.03760 | lr 1.55e-04
+Epoch  86/150 | step    8550 | loss 0.04441 | lr 1.54e-04
+Epoch  86/150 | step    8575 | loss 0.02884 | lr 1.54e-04
+Epoch  86/150 | step    8600 | loss 0.02793 | lr 1.54e-04
+Epoch  86/150 completed in 265.1s | train 0.04565 | validation 0.04378
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  87/150 | step    8625 | loss 0.02696 | lr 1.54e-04
+Epoch  87/150 | step    8650 | loss 0.03983 | lr 1.53e-04
+Epoch  87/150 | step    8675 | loss 0.06781 | lr 1.53e-04
+Epoch  87/150 | step    8700 | loss 0.03799 | lr 1.53e-04
+Epoch  87/150 | step    8725 | loss 0.02478 | lr 1.53e-04
+Epoch  87/150 | step    8750 | loss 0.02797 | lr 1.52e-04
+Epoch  87/150 | step    8775 | loss 0.04882 | lr 1.52e-04
+Epoch  87/150 completed in 263.1s | train 0.04264 | validation 0.04994
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  88/150 | step    8800 | loss 0.05703 | lr 1.52e-04
+Epoch  88/150 | step    8825 | loss 0.04092 | lr 1.52e-04
+Epoch  88/150 | step    8850 | loss 0.03932 | lr 1.51e-04
+Epoch  88/150 | step    8875 | loss 0.03193 | lr 1.51e-04
+Epoch  88/150 | step    8900 | loss 0.03324 | lr 1.51e-04
+Epoch  88/150 | step    8925 | loss 0.03940 | lr 1.51e-04
+Epoch  88/150 | step    8950 | loss 0.03012 | lr 1.50e-04
+Epoch  88/150 | step    8975 | loss 0.03116 | lr 1.50e-04
+Epoch  88/150 completed in 265.9s | train 0.04397 | validation 0.04221
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  89/150 | step    9000 | loss 0.04295 | lr 1.50e-04
+Epoch  89/150 | step    9025 | loss 0.04350 | lr 1.50e-04
+Epoch  89/150 | step    9050 | loss 0.03965 | lr 1.49e-04
+Epoch  89/150 | step    9075 | loss 0.01725 | lr 1.49e-04
+Epoch  89/150 | step    9100 | loss 0.02727 | lr 1.49e-04
+Epoch  89/150 | step    9125 | loss 0.05740 | lr 1.49e-04
+Epoch  89/150 | step    9150 | loss 0.02792 | lr 1.48e-04
+Epoch  89/150 completed in 264.4s | train 0.04405 | validation 0.05023
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  90/150 | step    9175 | loss 0.04815 | lr 1.48e-04
+Epoch  90/150 | step    9200 | loss 0.04057 | lr 1.48e-04
+Epoch  90/150 | step    9225 | loss 0.03297 | lr 1.47e-04
+Epoch  90/150 | step    9250 | loss 0.03778 | lr 1.47e-04
+Epoch  90/150 | step    9275 | loss 0.02848 | lr 1.47e-04
+Epoch  90/150 | step    9300 | loss 0.08928 | lr 1.47e-04
+Epoch  90/150 | step    9325 | loss 0.03122 | lr 1.46e-04
+Epoch  90/150 completed in 261.2s | train 0.04115 | validation 0.03776
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  91/150 | step    9350 | loss 0.04311 | lr 1.46e-04
+Epoch  91/150 | step    9375 | loss 0.08173 | lr 1.46e-04
+Epoch  91/150 | step    9400 | loss 0.03264 | lr 1.46e-04
+Epoch  91/150 | step    9425 | loss 0.03589 | lr 1.45e-04
+Epoch  91/150 | step    9450 | loss 0.05264 | lr 1.45e-04
+Epoch  91/150 | step    9475 | loss 0.04636 | lr 1.45e-04
+Epoch  91/150 | step    9500 | loss 0.04047 | lr 1.45e-04
+Epoch  91/150 completed in 264.5s | train 0.04379 | validation 0.04343
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  92/150 | step    9525 | loss 0.02740 | lr 1.44e-04
+Epoch  92/150 | step    9550 | loss 0.03987 | lr 1.44e-04
+Epoch  92/150 | step    9575 | loss 0.03710 | lr 1.44e-04
+Epoch  92/150 | step    9600 | loss 0.05849 | lr 1.44e-04
+Epoch  92/150 | step    9625 | loss 0.07189 | lr 1.43e-04
+Epoch  92/150 | step    9650 | loss 0.05880 | lr 1.43e-04
+Epoch  92/150 | step    9675 | loss 0.03814 | lr 1.43e-04
+Epoch  92/150 completed in 263.8s | train 0.04494 | validation 0.04991
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  93/150 | step    9700 | loss 0.03798 | lr 1.42e-04
+Epoch  93/150 | step    9725 | loss 0.06358 | lr 1.42e-04
+Epoch  93/150 | step    9750 | loss 0.05365 | lr 1.42e-04
+Epoch  93/150 | step    9775 | loss 0.02086 | lr 1.42e-04
+Epoch  93/150 | step    9800 | loss 0.07681 | lr 1.41e-04
+Epoch  93/150 | step    9825 | loss 0.07445 | lr 1.41e-04
+Epoch  93/150 | step    9850 | loss 0.04250 | lr 1.41e-04
+Epoch  93/150 completed in 264.0s | train 0.04484 | validation 0.03697
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  94/150 | step    9875 | loss 0.02342 | lr 1.41e-04
+Epoch  94/150 | step    9900 | loss 0.07570 | lr 1.40e-04
+Epoch  94/150 | step    9925 | loss 0.04339 | lr 1.40e-04
+Epoch  94/150 | step    9950 | loss 0.02561 | lr 1.40e-04
+Epoch  94/150 | step    9975 | loss 0.02927 | lr 1.39e-04
+Epoch  94/150 | step   10000 | loss 0.03383 | lr 1.39e-04
+Epoch  94/150 | step   10025 | loss 0.02545 | lr 1.39e-04
+Epoch  94/150 completed in 263.9s | train 0.04355 | validation 0.03677
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  95/150 | step   10050 | loss 0.03099 | lr 1.39e-04
+Epoch  95/150 | step   10075 | loss 0.04380 | lr 1.38e-04
+Epoch  95/150 | step   10100 | loss 0.04071 | lr 1.38e-04
+Epoch  95/150 | step   10125 | loss 0.05376 | lr 1.38e-04
+Epoch  95/150 | step   10150 | loss 0.06295 | lr 1.38e-04
+Epoch  95/150 | step   10175 | loss 0.03448 | lr 1.37e-04
+Epoch  95/150 | step   10200 | loss 0.03549 | lr 1.37e-04
+Epoch  95/150 completed in 261.4s | train 0.04154 | validation 0.04873
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  96/150 | step   10225 | loss 0.03244 | lr 1.37e-04
+Epoch  96/150 | step   10250 | loss 0.05019 | lr 1.36e-04
+Epoch  96/150 | step   10275 | loss 0.07369 | lr 1.36e-04
+Epoch  96/150 | step   10300 | loss 0.04407 | lr 1.36e-04
+Epoch  96/150 | step   10325 | loss 0.04229 | lr 1.36e-04
+Epoch  96/150 | step   10350 | loss 0.02093 | lr 1.35e-04
+Epoch  96/150 | step   10375 | loss 0.07685 | lr 1.35e-04
+Epoch  96/150 completed in 263.4s | train 0.04368 | validation 0.05218
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  97/150 | step   10400 | loss 0.06507 | lr 1.35e-04
+Epoch  97/150 | step   10425 | loss 0.02071 | lr 1.34e-04
+Epoch  97/150 | step   10450 | loss 0.05854 | lr 1.34e-04
+Epoch  97/150 | step   10475 | loss 0.07495 | lr 1.34e-04
+Epoch  97/150 | step   10500 | loss 0.03850 | lr 1.34e-04
+Epoch  97/150 | step   10525 | loss 0.04017 | lr 1.33e-04
+Epoch  97/150 | step   10550 | loss 0.06525 | lr 1.33e-04
+Epoch  97/150 completed in 263.8s | train 0.04313 | validation 0.04678
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  98/150 | step   10575 | loss 0.06319 | lr 1.33e-04
+Epoch  98/150 | step   10600 | loss 0.06591 | lr 1.32e-04
+Epoch  98/150 | step   10625 | loss 0.02164 | lr 1.32e-04
+Epoch  98/150 | step   10650 | loss 0.03801 | lr 1.32e-04
+Epoch  98/150 | step   10675 | loss 0.06967 | lr 1.32e-04
+Epoch  98/150 | step   10700 | loss 0.08375 | lr 1.31e-04
+Epoch  98/150 | step   10725 | loss 0.04494 | lr 1.31e-04
+Epoch  98/150 completed in 262.4s | train 0.04501 | validation 0.04247
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch  99/150 | step   10750 | loss 0.03200 | lr 1.31e-04
+Epoch  99/150 | step   10775 | loss 0.08773 | lr 1.31e-04
+Epoch  99/150 | step   10800 | loss 0.04310 | lr 1.30e-04
+Epoch  99/150 | step   10825 | loss 0.05293 | lr 1.30e-04
+Epoch  99/150 | step   10850 | loss 0.02653 | lr 1.30e-04
+Epoch  99/150 | step   10875 | loss 0.10217 | lr 1.29e-04
+Epoch  99/150 | step   10900 | loss 0.03781 | lr 1.29e-04
+Epoch  99/150 completed in 263.1s | train 0.04368 | validation 0.05155
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 100/150 | step   10925 | loss 0.04187 | lr 1.29e-04
+Epoch 100/150 | step   10950 | loss 0.04208 | lr 1.29e-04
+Epoch 100/150 | step   10975 | loss 0.03759 | lr 1.28e-04
+Epoch 100/150 | step   11000 | loss 0.03079 | lr 1.28e-04
+Epoch 100/150 | step   11025 | loss 0.04662 | lr 1.28e-04
+Epoch 100/150 | step   11050 | loss 0.09065 | lr 1.27e-04
+Epoch 100/150 | step   11075 | loss 0.04171 | lr 1.27e-04
+Epoch 100/150 | step   11100 | loss 0.03380 | lr 1.27e-04
+Epoch 100/150 completed in 265.2s | train 0.04146 | validation 0.04301
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 101/150 | step   11125 | loss 0.03640 | lr 1.27e-04
+Epoch 101/150 | step   11150 | loss 0.03937 | lr 1.26e-04
+Epoch 101/150 | step   11175 | loss 0.05932 | lr 1.26e-04
+Epoch 101/150 | step   11200 | loss 0.03142 | lr 1.26e-04
+Epoch 101/150 | step   11225 | loss 0.06848 | lr 1.25e-04
+Epoch 101/150 | step   11250 | loss 0.02216 | lr 1.25e-04
+Epoch 101/150 | step   11275 | loss 0.08608 | lr 1.25e-04
+Epoch 101/150 completed in 262.3s | train 0.04395 | validation 0.04314
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 102/150 | step   11300 | loss 0.04614 | lr 1.24e-04
+Epoch 102/150 | step   11325 | loss 0.04969 | lr 1.24e-04
+Epoch 102/150 | step   11350 | loss 0.03392 | lr 1.24e-04
+Epoch 102/150 | step   11375 | loss 0.01709 | lr 1.24e-04
+Epoch 102/150 | step   11400 | loss 0.02971 | lr 1.23e-04
+Epoch 102/150 | step   11425 | loss 0.10345 | lr 1.23e-04
+Epoch 102/150 | step   11450 | loss 0.02808 | lr 1.23e-04
+Epoch 102/150 completed in 262.4s | train 0.04550 | validation 0.04411
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 103/150 | step   11475 | loss 0.07447 | lr 1.22e-04
+Epoch 103/150 | step   11500 | loss 0.13164 | lr 1.22e-04
+Epoch 103/150 | step   11525 | loss 0.02747 | lr 1.22e-04
+Epoch 103/150 | step   11550 | loss 0.03120 | lr 1.22e-04
+Epoch 103/150 | step   11575 | loss 0.04418 | lr 1.21e-04
+Epoch 103/150 | step   11600 | loss 0.04996 | lr 1.21e-04
+Epoch 103/150 | step   11625 | loss 0.03146 | lr 1.21e-04
+Epoch 103/150 completed in 263.5s | train 0.04496 | validation 0.03765
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 104/150 | step   11650 | loss 0.02351 | lr 1.20e-04
+Epoch 104/150 | step   11675 | loss 0.08053 | lr 1.20e-04
+Epoch 104/150 | step   11700 | loss 0.01552 | lr 1.20e-04
+Epoch 104/150 | step   11725 | loss 0.04251 | lr 1.20e-04
+Epoch 104/150 | step   11750 | loss 0.03209 | lr 1.19e-04
+Epoch 104/150 | step   11775 | loss 0.04123 | lr 1.19e-04
+Epoch 104/150 | step   11800 | loss 0.10450 | lr 1.19e-04
+Epoch 104/150 completed in 264.9s | train 0.04210 | validation 0.03601
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 105/150 | step   11825 | loss 0.05282 | lr 1.18e-04
+Epoch 105/150 | step   11850 | loss 0.02493 | lr 1.18e-04
+Epoch 105/150 | step   11875 | loss 0.02877 | lr 1.18e-04
+Epoch 105/150 | step   11900 | loss 0.04126 | lr 1.17e-04
+Epoch 105/150 | step   11925 | loss 0.03497 | lr 1.17e-04
+Epoch 105/150 | step   11950 | loss 0.02873 | lr 1.17e-04
+Epoch 105/150 | step   11975 | loss 0.04301 | lr 1.17e-04
+Epoch 105/150 completed in 267.3s | train 0.04299 | validation 0.03832
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 106/150 | step   12000 | loss 0.02320 | lr 1.16e-04
+Epoch 106/150 | step   12025 | loss 0.03010 | lr 1.16e-04
+Epoch 106/150 | step   12050 | loss 0.04928 | lr 1.16e-04
+Epoch 106/150 | step   12075 | loss 0.04211 | lr 1.15e-04
+Epoch 106/150 | step   12100 | loss 0.09041 | lr 1.15e-04
+Epoch 106/150 | step   12125 | loss 0.02904 | lr 1.15e-04
+Epoch 106/150 | step   12150 | loss 0.05148 | lr 1.15e-04
+Epoch 106/150 completed in 268.1s | train 0.04249 | validation 0.03998
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 107/150 | step   12175 | loss 0.03508 | lr 1.14e-04
+Epoch 107/150 | step   12200 | loss 0.04743 | lr 1.14e-04
+Epoch 107/150 | step   12225 | loss 0.07252 | lr 1.14e-04
+Epoch 107/150 | step   12250 | loss 0.03190 | lr 1.13e-04
+Epoch 107/150 | step   12275 | loss 0.04750 | lr 1.13e-04
+Epoch 107/150 | step   12300 | loss 0.06113 | lr 1.13e-04
+Epoch 107/150 | step   12325 | loss 0.03778 | lr 1.12e-04
+Epoch 107/150 completed in 255.4s | train 0.04429 | validation 0.04066
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 108/150 | step   12350 | loss 0.01889 | lr 1.12e-04
+Epoch 108/150 | step   12375 | loss 0.03630 | lr 1.12e-04
+Epoch 108/150 | step   12400 | loss 0.11231 | lr 1.12e-04
+Epoch 108/150 | step   12425 | loss 0.04178 | lr 1.11e-04
+Epoch 108/150 | step   12450 | loss 0.04344 | lr 1.11e-04
+Epoch 108/150 | step   12475 | loss 0.03691 | lr 1.11e-04
+Epoch 108/150 | step   12500 | loss 0.00958 | lr 1.10e-04
+Epoch 108/150 completed in 253.5s | train 0.04206 | validation 0.03931
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 109/150 | step   12525 | loss 0.04219 | lr 1.10e-04
+Epoch 109/150 | step   12550 | loss 0.07136 | lr 1.10e-04
+Epoch 109/150 | step   12575 | loss 0.02378 | lr 1.10e-04
+Epoch 109/150 | step   12600 | loss 0.08904 | lr 1.09e-04
+Epoch 109/150 | step   12625 | loss 0.08012 | lr 1.09e-04
+Epoch 109/150 | step   12650 | loss 0.02341 | lr 1.09e-04
+Epoch 109/150 | step   12675 | loss 0.04393 | lr 1.08e-04
+Epoch 109/150 completed in 225.3s | train 0.04242 | validation 0.04483
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 110/150 | step   12700 | loss 0.07275 | lr 1.08e-04
+Epoch 110/150 | step   12725 | loss 0.05402 | lr 1.08e-04
+Epoch 110/150 | step   12750 | loss 0.05640 | lr 1.07e-04
+Epoch 110/150 | step   12775 | loss 0.05594 | lr 1.07e-04
+Epoch 110/150 | step   12800 | loss 0.02595 | lr 1.07e-04
+Epoch 110/150 | step   12825 | loss 0.05036 | lr 1.07e-04
+Epoch 110/150 | step   12850 | loss 0.04116 | lr 1.06e-04
+Epoch 110/150 completed in 216.2s | train 0.04319 | validation 0.04733
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 111/150 | step   12875 | loss 0.03107 | lr 1.06e-04
+Epoch 111/150 | step   12900 | loss 0.02192 | lr 1.06e-04
+Epoch 111/150 | step   12925 | loss 0.03348 | lr 1.05e-04
+Epoch 111/150 | step   12950 | loss 0.03600 | lr 1.05e-04
+Epoch 111/150 | step   12975 | loss 0.03092 | lr 1.05e-04
+Epoch 111/150 | step   13000 | loss 0.05073 | lr 1.04e-04
+Epoch 111/150 | step   13025 | loss 0.03998 | lr 1.04e-04
+Epoch 111/150 completed in 214.7s | train 0.04349 | validation 0.04477
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 112/150 | step   13050 | loss 0.04356 | lr 1.04e-04
+Epoch 112/150 | step   13075 | loss 0.03747 | lr 1.04e-04
+Epoch 112/150 | step   13100 | loss 0.06174 | lr 1.03e-04
+Epoch 112/150 | step   13125 | loss 0.02528 | lr 1.03e-04
+Epoch 112/150 | step   13150 | loss 0.04886 | lr 1.03e-04
+Epoch 112/150 | step   13175 | loss 0.08160 | lr 1.02e-04
+Epoch 112/150 | step   13200 | loss 0.01716 | lr 1.02e-04
+Epoch 112/150 completed in 212.9s | train 0.04145 | validation 0.04630
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 113/150 | step   13225 | loss 0.07317 | lr 1.02e-04
+Epoch 113/150 | step   13250 | loss 0.04211 | lr 1.01e-04
+Epoch 113/150 | step   13275 | loss 0.02635 | lr 1.01e-04
+Epoch 113/150 | step   13300 | loss 0.04343 | lr 1.01e-04
+Epoch 113/150 | step   13325 | loss 0.05077 | lr 1.01e-04
+Epoch 113/150 | step   13350 | loss 0.07215 | lr 1.00e-04
+Epoch 113/150 | step   13375 | loss 0.06364 | lr 1.00e-04
+Epoch 113/150 | step   13400 | loss 0.04542 | lr 9.97e-05
+Epoch 113/150 completed in 212.3s | train 0.04373 | validation 0.04752
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 114/150 | step   13425 | loss 0.03141 | lr 9.94e-05
+Epoch 114/150 | step   13450 | loss 0.02270 | lr 9.91e-05
+Epoch 114/150 | step   13475 | loss 0.04554 | lr 9.88e-05
+Epoch 114/150 | step   13500 | loss 0.05738 | lr 9.85e-05
+Epoch 114/150 | step   13525 | loss 0.04690 | lr 9.82e-05
+Epoch 114/150 | step   13550 | loss 0.07717 | lr 9.79e-05
+Epoch 114/150 | step   13575 | loss 0.02810 | lr 9.76e-05
+Epoch 114/150 completed in 214.2s | train 0.03956 | validation 0.03724
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 115/150 | step   13600 | loss 0.03367 | lr 9.73e-05
+Epoch 115/150 | step   13625 | loss 0.01633 | lr 9.70e-05
+Epoch 115/150 | step   13650 | loss 0.04173 | lr 9.67e-05
+Epoch 115/150 | step   13675 | loss 0.05496 | lr 9.64e-05
+Epoch 115/150 | step   13700 | loss 0.11382 | lr 9.61e-05
+Epoch 115/150 | step   13725 | loss 0.04808 | lr 9.58e-05
+Epoch 115/150 | step   13750 | loss 0.03275 | lr 9.55e-05
+Epoch 115/150 completed in 212.3s | train 0.04253 | validation 0.03830
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 116/150 | step   13775 | loss 0.06723 | lr 9.52e-05
+Epoch 116/150 | step   13800 | loss 0.06192 | lr 9.49e-05
+Epoch 116/150 | step   13825 | loss 0.04396 | lr 9.46e-05
+Epoch 116/150 | step   13850 | loss 0.06327 | lr 9.43e-05
+Epoch 116/150 | step   13875 | loss 0.06153 | lr 9.40e-05
+Epoch 116/150 | step   13900 | loss 0.01700 | lr 9.37e-05
+Epoch 116/150 | step   13925 | loss 0.04170 | lr 9.34e-05
+Epoch 116/150 completed in 212.6s | train 0.04336 | validation 0.04076
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 117/150 | step   13950 | loss 0.05831 | lr 9.31e-05
+Epoch 117/150 | step   13975 | loss 0.06370 | lr 9.29e-05
+Epoch 117/150 | step   14000 | loss 0.03452 | lr 9.26e-05
+Epoch 117/150 | step   14025 | loss 0.07225 | lr 9.23e-05
+Epoch 117/150 | step   14050 | loss 0.03205 | lr 9.20e-05
+Epoch 117/150 | step   14075 | loss 0.03337 | lr 9.17e-05
+Epoch 117/150 | step   14100 | loss 0.02562 | lr 9.14e-05
+Epoch 117/150 completed in 212.5s | train 0.04042 | validation 0.03273
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 118/150 | step   14125 | loss 0.03227 | lr 9.11e-05
+Epoch 118/150 | step   14150 | loss 0.04330 | lr 9.08e-05
+Epoch 118/150 | step   14175 | loss 0.03971 | lr 9.05e-05
+Epoch 118/150 | step   14200 | loss 0.03186 | lr 9.02e-05
+Epoch 118/150 | step   14225 | loss 0.03166 | lr 8.99e-05
+Epoch 118/150 | step   14250 | loss 0.04876 | lr 8.96e-05
+Epoch 118/150 | step   14275 | loss 0.02753 | lr 8.93e-05
+Epoch 118/150 completed in 212.5s | train 0.04077 | validation 0.03866
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 119/150 | step   14300 | loss 0.06262 | lr 8.90e-05
+Epoch 119/150 | step   14325 | loss 0.04511 | lr 8.87e-05
+Epoch 119/150 | step   14350 | loss 0.09020 | lr 8.84e-05
+Epoch 119/150 | step   14375 | loss 0.06322 | lr 8.81e-05
+Epoch 119/150 | step   14400 | loss 0.03183 | lr 8.78e-05
+Epoch 119/150 | step   14425 | loss 0.02508 | lr 8.75e-05
+Epoch 119/150 | step   14450 | loss 0.03585 | lr 8.72e-05
+Epoch 119/150 completed in 227.8s | train 0.04434 | validation 0.04184
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 120/150 | step   14475 | loss 0.06314 | lr 8.69e-05
+Epoch 120/150 | step   14500 | loss 0.04594 | lr 8.66e-05
+Epoch 120/150 | step   14525 | loss 0.01987 | lr 8.63e-05
+Epoch 120/150 | step   14550 | loss 0.04288 | lr 8.60e-05
+Epoch 120/150 | step   14575 | loss 0.02540 | lr 8.57e-05
+Epoch 120/150 | step   14600 | loss 0.06049 | lr 8.54e-05
+Epoch 120/150 | step   14625 | loss 0.01644 | lr 8.52e-05
+Epoch 120/150 completed in 244.6s | train 0.04284 | validation 0.05004
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 121/150 | step   14650 | loss 0.05498 | lr 8.49e-05
+Epoch 121/150 | step   14675 | loss 0.02629 | lr 8.46e-05
+Epoch 121/150 | step   14700 | loss 0.03245 | lr 8.43e-05
+Epoch 121/150 | step   14725 | loss 0.03965 | lr 8.40e-05
+Epoch 121/150 | step   14750 | loss 0.03017 | lr 8.37e-05
+Epoch 121/150 | step   14775 | loss 0.04308 | lr 8.34e-05
+Epoch 121/150 | step   14800 | loss 0.02257 | lr 8.31e-05
+Epoch 121/150 completed in 244.5s | train 0.03986 | validation 0.03671
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 122/150 | step   14825 | loss 0.04879 | lr 8.28e-05
+Epoch 122/150 | step   14850 | loss 0.02199 | lr 8.25e-05
+Epoch 122/150 | step   14875 | loss 0.07365 | lr 8.22e-05
+Epoch 122/150 | step   14900 | loss 0.02547 | lr 8.19e-05
+Epoch 122/150 | step   14925 | loss 0.03024 | lr 8.16e-05
+Epoch 122/150 | step   14950 | loss 0.04281 | lr 8.13e-05
+Epoch 122/150 | step   14975 | loss 0.03402 | lr 8.10e-05
+Epoch 122/150 completed in 245.7s | train 0.04064 | validation 0.03883
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 123/150 | step   15000 | loss 0.02890 | lr 8.07e-05
+Epoch 123/150 | step   15025 | loss 0.02141 | lr 8.05e-05
+Epoch 123/150 | step   15050 | loss 0.02462 | lr 8.02e-05
+Epoch 123/150 | step   15075 | loss 0.06665 | lr 7.99e-05
+Epoch 123/150 | step   15100 | loss 0.09210 | lr 7.96e-05
+Epoch 123/150 | step   15125 | loss 0.05662 | lr 7.93e-05
+Epoch 123/150 | step   15150 | loss 0.08109 | lr 7.90e-05
+Epoch 123/150 completed in 244.2s | train 0.04161 | validation 0.03591
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 124/150 | step   15175 | loss 0.03989 | lr 7.87e-05
+Epoch 124/150 | step   15200 | loss 0.03510 | lr 7.84e-05
+Epoch 124/150 | step   15225 | loss 0.02937 | lr 7.81e-05
+Epoch 124/150 | step   15250 | loss 0.02617 | lr 7.78e-05
+Epoch 124/150 | step   15275 | loss 0.02398 | lr 7.75e-05
+Epoch 124/150 | step   15300 | loss 0.01671 | lr 7.73e-05
+Epoch 124/150 | step   15325 | loss 0.03865 | lr 7.70e-05
+Epoch 124/150 completed in 243.8s | train 0.04268 | validation 0.04794
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 125/150 | step   15350 | loss 0.07397 | lr 7.67e-05
+Epoch 125/150 | step   15375 | loss 0.05298 | lr 7.64e-05
+Epoch 125/150 | step   15400 | loss 0.04461 | lr 7.61e-05
+Epoch 125/150 | step   15425 | loss 0.04568 | lr 7.58e-05
+Epoch 125/150 | step   15450 | loss 0.02862 | lr 7.55e-05
+Epoch 125/150 | step   15475 | loss 0.03217 | lr 7.52e-05
+Epoch 125/150 | step   15500 | loss 0.03067 | lr 7.49e-05
+Epoch 125/150 | step   15525 | loss 0.09759 | lr 7.46e-05
+Epoch 125/150 completed in 243.7s | train 0.04175 | validation 0.03668
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 126/150 | step   15550 | loss 0.06712 | lr 7.44e-05
+Epoch 126/150 | step   15575 | loss 0.06427 | lr 7.41e-05
+Epoch 126/150 | step   15600 | loss 0.05370 | lr 7.38e-05
+Epoch 126/150 | step   15625 | loss 0.13253 | lr 7.35e-05
+Epoch 126/150 | step   15650 | loss 0.04363 | lr 7.32e-05
+Epoch 126/150 | step   15675 | loss 0.05618 | lr 7.29e-05
+Epoch 126/150 | step   15700 | loss 0.04018 | lr 7.26e-05
+Epoch 126/150 completed in 244.5s | train 0.04283 | validation 0.04278
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 127/150 | step   15725 | loss 0.02470 | lr 7.23e-05
+Epoch 127/150 | step   15750 | loss 0.03743 | lr 7.21e-05
+Epoch 127/150 | step   15775 | loss 0.08403 | lr 7.18e-05
+Epoch 127/150 | step   15800 | loss 0.03074 | lr 7.15e-05
+Epoch 127/150 | step   15825 | loss 0.01863 | lr 7.12e-05
+Epoch 127/150 | step   15850 | loss 0.02851 | lr 7.09e-05
+Epoch 127/150 | step   15875 | loss 0.03204 | lr 7.06e-05
+Epoch 127/150 completed in 243.2s | train 0.04369 | validation 0.04554
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 128/150 | step   15900 | loss 0.04920 | lr 7.03e-05
+Epoch 128/150 | step   15925 | loss 0.02750 | lr 7.01e-05
+Epoch 128/150 | step   15950 | loss 0.01884 | lr 6.98e-05
+Epoch 128/150 | step   15975 | loss 0.02375 | lr 6.95e-05
+Epoch 128/150 | step   16000 | loss 0.04380 | lr 6.92e-05
+Epoch 128/150 | step   16025 | loss 0.02115 | lr 6.89e-05
+Epoch 128/150 | step   16050 | loss 0.02084 | lr 6.86e-05
+Epoch 128/150 completed in 242.7s | train 0.03924 | validation 0.04502
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 129/150 | step   16075 | loss 0.05145 | lr 6.84e-05
+Epoch 129/150 | step   16100 | loss 0.03712 | lr 6.81e-05
+Epoch 129/150 | step   16125 | loss 0.06084 | lr 6.78e-05
+Epoch 129/150 | step   16150 | loss 0.02668 | lr 6.75e-05
+Epoch 129/150 | step   16175 | loss 0.02006 | lr 6.72e-05
+Epoch 129/150 | step   16200 | loss 0.05535 | lr 6.70e-05
+Epoch 129/150 | step   16225 | loss 0.02477 | lr 6.67e-05
+Epoch 129/150 completed in 243.8s | train 0.04132 | validation 0.04131
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 130/150 | step   16250 | loss 0.05800 | lr 6.64e-05
+Epoch 130/150 | step   16275 | loss 0.03271 | lr 6.61e-05
+Epoch 130/150 | step   16300 | loss 0.03815 | lr 6.58e-05
+Epoch 130/150 | step   16325 | loss 0.03276 | lr 6.55e-05
+Epoch 130/150 | step   16350 | loss 0.04307 | lr 6.53e-05
+Epoch 130/150 | step   16375 | loss 0.05150 | lr 6.50e-05
+Epoch 130/150 | step   16400 | loss 0.02587 | lr 6.47e-05
+Epoch 130/150 completed in 244.1s | train 0.04172 | validation 0.04582
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 131/150 | step   16425 | loss 0.07377 | lr 6.44e-05
+Epoch 131/150 | step   16450 | loss 0.05387 | lr 6.42e-05
+Epoch 131/150 | step   16475 | loss 0.04875 | lr 6.39e-05
+Epoch 131/150 | step   16500 | loss 0.03689 | lr 6.36e-05
+Epoch 131/150 | step   16525 | loss 0.04525 | lr 6.33e-05
+Epoch 131/150 | step   16550 | loss 0.07103 | lr 6.30e-05
+Epoch 131/150 | step   16575 | loss 0.04504 | lr 6.28e-05
+Epoch 131/150 completed in 243.3s | train 0.04336 | validation 0.03905
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 132/150 | step   16600 | loss 0.02218 | lr 6.25e-05
+Epoch 132/150 | step   16625 | loss 0.04355 | lr 6.22e-05
+Epoch 132/150 | step   16650 | loss 0.03909 | lr 6.19e-05
+Epoch 132/150 | step   16675 | loss 0.02265 | lr 6.17e-05
+Epoch 132/150 | step   16700 | loss 0.01973 | lr 6.14e-05
+Epoch 132/150 | step   16725 | loss 0.06345 | lr 6.11e-05
+Epoch 132/150 | step   16750 | loss 0.09005 | lr 6.08e-05
+Epoch 132/150 completed in 244.0s | train 0.03914 | validation 0.04640
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 133/150 | step   16775 | loss 0.03058 | lr 6.06e-05
+Epoch 133/150 | step   16800 | loss 0.03292 | lr 6.03e-05
+Epoch 133/150 | step   16825 | loss 0.03944 | lr 6.00e-05
+Epoch 133/150 | step   16850 | loss 0.05216 | lr 5.97e-05
+Epoch 133/150 | step   16875 | loss 0.04330 | lr 5.95e-05
+Epoch 133/150 | step   16900 | loss 0.02834 | lr 5.92e-05
+Epoch 133/150 | step   16925 | loss 0.04736 | lr 5.89e-05
+Epoch 133/150 completed in 244.4s | train 0.04070 | validation 0.04259
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 134/150 | step   16950 | loss 0.04807 | lr 5.87e-05
+Epoch 134/150 | step   16975 | loss 0.02287 | lr 5.84e-05
+Epoch 134/150 | step   17000 | loss 0.05553 | lr 5.81e-05
+Epoch 134/150 | step   17025 | loss 0.03973 | lr 5.78e-05
+Epoch 134/150 | step   17050 | loss 0.03828 | lr 5.76e-05
+Epoch 134/150 | step   17075 | loss 0.03040 | lr 5.73e-05
+Epoch 134/150 | step   17100 | loss 0.01604 | lr 5.70e-05
+Epoch 134/150 completed in 243.9s | train 0.04073 | validation 0.04212
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 135/150 | step   17125 | loss 0.08794 | lr 5.68e-05
+Epoch 135/150 | step   17150 | loss 0.03814 | lr 5.65e-05
+Epoch 135/150 | step   17175 | loss 0.05421 | lr 5.62e-05
+Epoch 135/150 | step   17200 | loss 0.09925 | lr 5.60e-05
+Epoch 135/150 | step   17225 | loss 0.04479 | lr 5.57e-05
+Epoch 135/150 | step   17250 | loss 0.03841 | lr 5.54e-05
+Epoch 135/150 | step   17275 | loss 0.05505 | lr 5.52e-05
+Epoch 135/150 completed in 243.9s | train 0.04087 | validation 0.03805
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 136/150 | step   17300 | loss 0.03498 | lr 5.49e-05
+Epoch 136/150 | step   17325 | loss 0.07000 | lr 5.46e-05
+Epoch 136/150 | step   17350 | loss 0.06210 | lr 5.44e-05
+Epoch 136/150 | step   17375 | loss 0.03784 | lr 5.41e-05
+Epoch 136/150 | step   17400 | loss 0.03502 | lr 5.38e-05
+Epoch 136/150 | step   17425 | loss 0.05350 | lr 5.36e-05
+Epoch 136/150 | step   17450 | loss 0.02276 | lr 5.33e-05
+Epoch 136/150 completed in 245.4s | train 0.04131 | validation 0.03568
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 137/150 | step   17475 | loss 0.01480 | lr 5.30e-05
+Epoch 137/150 | step   17500 | loss 0.02929 | lr 5.28e-05
+Epoch 137/150 | step   17525 | loss 0.02668 | lr 5.25e-05
+Epoch 137/150 | step   17550 | loss 0.03477 | lr 5.23e-05
+Epoch 137/150 | step   17575 | loss 0.02858 | lr 5.20e-05
+Epoch 137/150 | step   17600 | loss 0.03348 | lr 5.17e-05
+Epoch 137/150 | step   17625 | loss 0.06937 | lr 5.15e-05
+Epoch 137/150 completed in 245.5s | train 0.03994 | validation 0.03639
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 138/150 | step   17650 | loss 0.02787 | lr 5.12e-05
+Epoch 138/150 | step   17675 | loss 0.04312 | lr 5.09e-05
+Epoch 138/150 | step   17700 | loss 0.03370 | lr 5.07e-05
+Epoch 138/150 | step   17725 | loss 0.03396 | lr 5.04e-05
+Epoch 138/150 | step   17750 | loss 0.05487 | lr 5.02e-05
+Epoch 138/150 | step   17775 | loss 0.02897 | lr 4.99e-05
+Epoch 138/150 | step   17800 | loss 0.07991 | lr 4.97e-05
+Epoch 138/150 | step   17825 | loss 0.05900 | lr 4.94e-05
+Epoch 138/150 completed in 243.5s | train 0.03932 | validation 0.03930
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 139/150 | step   17850 | loss 0.05046 | lr 4.91e-05
+Epoch 139/150 | step   17875 | loss 0.03304 | lr 4.89e-05
+Epoch 139/150 | step   17900 | loss 0.01155 | lr 4.86e-05
+Epoch 139/150 | step   17925 | loss 0.02155 | lr 4.84e-05
+Epoch 139/150 | step   17950 | loss 0.03312 | lr 4.81e-05
+Epoch 139/150 | step   17975 | loss 0.06700 | lr 4.79e-05
+Epoch 139/150 | step   18000 | loss 0.05805 | lr 4.76e-05
+Epoch 139/150 completed in 242.9s | train 0.04163 | validation 0.03855
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 140/150 | step   18025 | loss 0.05720 | lr 4.74e-05
+Epoch 140/150 | step   18050 | loss 0.04336 | lr 4.71e-05
+Epoch 140/150 | step   18075 | loss 0.03238 | lr 4.69e-05
+Epoch 140/150 | step   18100 | loss 0.03741 | lr 4.66e-05
+Epoch 140/150 | step   18125 | loss 0.02262 | lr 4.63e-05
+Epoch 140/150 | step   18150 | loss 0.03450 | lr 4.61e-05
+Epoch 140/150 | step   18175 | loss 0.04431 | lr 4.58e-05
+Epoch 140/150 completed in 243.0s | train 0.04050 | validation 0.03787
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 141/150 | step   18200 | loss 0.02373 | lr 4.56e-05
+Epoch 141/150 | step   18225 | loss 0.03168 | lr 4.53e-05
+Epoch 141/150 | step   18250 | loss 0.06007 | lr 4.51e-05
+Epoch 141/150 | step   18275 | loss 0.03545 | lr 4.48e-05
+Epoch 141/150 | step   18300 | loss 0.06307 | lr 4.46e-05
+Epoch 141/150 | step   18325 | loss 0.04327 | lr 4.44e-05
+Epoch 141/150 | step   18350 | loss 0.05275 | lr 4.41e-05
+Epoch 141/150 completed in 243.7s | train 0.03960 | validation 0.04436
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 142/150 | step   18375 | loss 0.04588 | lr 4.39e-05
+Epoch 142/150 | step   18400 | loss 0.01178 | lr 4.36e-05
+Epoch 142/150 | step   18425 | loss 0.03112 | lr 4.34e-05
+Epoch 142/150 | step   18450 | loss 0.02829 | lr 4.31e-05
+Epoch 142/150 | step   18475 | loss 0.03581 | lr 4.29e-05
+Epoch 142/150 | step   18500 | loss 0.05937 | lr 4.26e-05
+Epoch 142/150 | step   18525 | loss 0.03602 | lr 4.24e-05
+Epoch 142/150 completed in 243.2s | train 0.04243 | validation 0.04232
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 143/150 | step   18550 | loss 0.03149 | lr 4.21e-05
+Epoch 143/150 | step   18575 | loss 0.03130 | lr 4.19e-05
+Epoch 143/150 | step   18600 | loss 0.03732 | lr 4.17e-05
+Epoch 143/150 | step   18625 | loss 0.01847 | lr 4.14e-05
+Epoch 143/150 | step   18650 | loss 0.04206 | lr 4.12e-05
+Epoch 143/150 | step   18675 | loss 0.03743 | lr 4.09e-05
+Epoch 143/150 | step   18700 | loss 0.02331 | lr 4.07e-05
+Epoch 143/150 completed in 241.6s | train 0.04149 | validation 0.03959
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 144/150 | step   18725 | loss 0.02559 | lr 4.05e-05
+Epoch 144/150 | step   18750 | loss 0.02799 | lr 4.02e-05
+Epoch 144/150 | step   18775 | loss 0.06111 | lr 4.00e-05
+Epoch 144/150 | step   18800 | loss 0.06051 | lr 3.97e-05
+Epoch 144/150 | step   18825 | loss 0.02003 | lr 3.95e-05
+Epoch 144/150 | step   18850 | loss 0.02349 | lr 3.93e-05
+Epoch 144/150 | step   18875 | loss 0.03277 | lr 3.90e-05
+Epoch 144/150 completed in 243.8s | train 0.04161 | validation 0.04243
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 145/150 | step   18900 | loss 0.08098 | lr 3.88e-05
+Epoch 145/150 | step   18925 | loss 0.04606 | lr 3.86e-05
+Epoch 145/150 | step   18950 | loss 0.04469 | lr 3.83e-05
+Epoch 145/150 | step   18975 | loss 0.01801 | lr 3.81e-05
+Epoch 145/150 | step   19000 | loss 0.06947 | lr 3.79e-05
+Epoch 145/150 | step   19025 | loss 0.03064 | lr 3.76e-05
+Epoch 145/150 | step   19050 | loss 0.02173 | lr 3.74e-05
+Epoch 145/150 completed in 242.8s | train 0.04157 | validation 0.04061
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 146/150 | step   19075 | loss 0.03499 | lr 3.72e-05
+Epoch 146/150 | step   19100 | loss 0.02522 | lr 3.69e-05
+Epoch 146/150 | step   19125 | loss 0.04729 | lr 3.67e-05
+Epoch 146/150 | step   19150 | loss 0.01693 | lr 3.65e-05
+Epoch 146/150 | step   19175 | loss 0.01791 | lr 3.62e-05
+Epoch 146/150 | step   19200 | loss 0.02180 | lr 3.60e-05
+Epoch 146/150 | step   19225 | loss 0.02672 | lr 3.58e-05
+Epoch 146/150 completed in 241.7s | train 0.04029 | validation 0.04301
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 147/150 | step   19250 | loss 0.02596 | lr 3.55e-05
+Epoch 147/150 | step   19275 | loss 0.02651 | lr 3.53e-05
+Epoch 147/150 | step   19300 | loss 0.06824 | lr 3.51e-05
+Epoch 147/150 | step   19325 | loss 0.02874 | lr 3.49e-05
+Epoch 147/150 | step   19350 | loss 0.02247 | lr 3.46e-05
+Epoch 147/150 | step   19375 | loss 0.05295 | lr 3.44e-05
+Epoch 147/150 | step   19400 | loss 0.03699 | lr 3.42e-05
+Epoch 147/150 completed in 241.6s | train 0.04273 | validation 0.04051
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 148/150 | step   19425 | loss 0.05570 | lr 3.40e-05
+Epoch 148/150 | step   19450 | loss 0.07992 | lr 3.37e-05
+Epoch 148/150 | step   19475 | loss 0.02678 | lr 3.35e-05
+Epoch 148/150 | step   19500 | loss 0.02305 | lr 3.33e-05
+Epoch 148/150 | step   19525 | loss 0.03288 | lr 3.31e-05
+Epoch 148/150 | step   19550 | loss 0.03365 | lr 3.29e-05
+Epoch 148/150 | step   19575 | loss 0.03575 | lr 3.26e-05
+Epoch 148/150 completed in 244.2s | train 0.04058 | validation 0.04073
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 149/150 | step   19600 | loss 0.03719 | lr 3.24e-05
+Epoch 149/150 | step   19625 | loss 0.06430 | lr 3.22e-05
+Epoch 149/150 | step   19650 | loss 0.04669 | lr 3.20e-05
+Epoch 149/150 | step   19675 | loss 0.02469 | lr 3.18e-05
+Epoch 149/150 | step   19700 | loss 0.11263 | lr 3.15e-05
+Epoch 149/150 | step   19725 | loss 0.03912 | lr 3.13e-05
+Epoch 149/150 | step   19750 | loss 0.02860 | lr 3.11e-05
+Epoch 149/150 completed in 245.1s | train 0.03984 | validation 0.04251
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Epoch 150/150 | step   19775 | loss 0.06401 | lr 3.09e-05
+Epoch 150/150 | step   19800 | loss 0.06435 | lr 3.07e-05
+Epoch 150/150 | step   19825 | loss 0.03314 | lr 3.05e-05
+Epoch 150/150 | step   19850 | loss 0.04811 | lr 3.02e-05
+Epoch 150/150 | step   19875 | loss 0.05824 | lr 3.00e-05
+Epoch 150/150 | step   19900 | loss 0.04544 | lr 2.98e-05
+Epoch 150/150 | step   19925 | loss 0.01905 | lr 2.96e-05
+Epoch 150/150 | step   19950 | loss 0.00925 | lr 2.94e-05
+Epoch 150/150 completed in 241.2s | train 0.04058 | validation 0.04590
+Saved checkpoint: .\gundam_diffusion_v2.pth
+Diffusion training completed.

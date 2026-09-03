@@ -1,0 +1,196 @@
+Device: cpu
+World size: 1
+Training images: 1409
+Validation images: 156
+Trainable parameters: 5,903,299
+Epoch   1/50 | step      25 | loss 0.97891 | lr 1.04e-05
+Epoch   1/50 completed in 255.1s | train 0.99622 | validation 0.80598
+Saved checkpoint: image_diffusion_model.pth
+Epoch   2/50 | step      50 | loss 0.78315 | lr 2.04e-05
+Epoch   2/50 | step      75 | loss 0.54684 | lr 3.04e-05
+Epoch   2/50 completed in 248.3s | train 0.63204 | validation 0.38269
+Saved checkpoint: image_diffusion_model.pth
+Epoch   3/50 | step     100 | loss 0.36704 | lr 4.04e-05
+Epoch   3/50 | step     125 | loss 0.27317 | lr 5.04e-05
+Epoch   3/50 completed in 247.7s | train 0.31639 | validation 0.19446
+Saved checkpoint: image_diffusion_model.pth
+Epoch   4/50 | step     150 | loss 0.23243 | lr 6.04e-05
+Epoch   4/50 | step     175 | loss 0.18145 | lr 7.04e-05
+Epoch   4/50 completed in 248.1s | train 0.20699 | validation 0.14963
+Saved checkpoint: image_diffusion_model.pth
+Epoch   5/50 | step     200 | loss 0.17928 | lr 8.04e-05
+Epoch   5/50 | step     225 | loss 0.06421 | lr 9.04e-05
+Epoch   5/50 completed in 248.7s | train 0.16285 | validation 0.13401
+Saved checkpoint: image_diffusion_model.pth
+Epoch   6/50 | step     250 | loss 0.14541 | lr 1.00e-04
+Epoch   6/50 completed in 235.4s | train 0.14098 | validation 0.11755
+Saved checkpoint: image_diffusion_model.pth
+Epoch   7/50 | step     275 | loss 0.11337 | lr 1.10e-04
+Epoch   7/50 | step     300 | loss 0.09639 | lr 1.20e-04
+Epoch   7/50 completed in 218.1s | train 0.12098 | validation 0.09286
+Saved checkpoint: image_diffusion_model.pth
+Epoch   8/50 | step     325 | loss 0.08452 | lr 1.30e-04
+Epoch   8/50 | step     350 | loss 0.14762 | lr 1.40e-04
+Epoch   8/50 completed in 217.7s | train 0.11205 | validation 0.09169
+Saved checkpoint: image_diffusion_model.pth
+Epoch   9/50 | step     375 | loss 0.08082 | lr 1.50e-04
+Epoch   9/50 | step     400 | loss 0.12703 | lr 1.60e-04
+Epoch   9/50 completed in 220.1s | train 0.10024 | validation 0.10986
+Saved checkpoint: image_diffusion_model.pth
+Epoch  10/50 | step     425 | loss 0.11314 | lr 1.70e-04
+Epoch  10/50 | step     450 | loss 0.05519 | lr 1.80e-04
+Epoch  10/50 completed in 231.4s | train 0.09681 | validation 0.08476
+Saved checkpoint: image_diffusion_model.pth
+Epoch  11/50 | step     475 | loss 0.07469 | lr 1.90e-04
+Epoch  11/50 completed in 242.7s | train 0.08745 | validation 0.07465
+Saved checkpoint: image_diffusion_model.pth
+Epoch  12/50 | step     500 | loss 0.07820 | lr 2.00e-04
+Epoch  12/50 | step     525 | loss 0.10560 | lr 2.00e-04
+Epoch  12/50 completed in 241.0s | train 0.08921 | validation 0.06985
+Saved checkpoint: image_diffusion_model.pth
+Epoch  13/50 | step     550 | loss 0.06751 | lr 2.00e-04
+Epoch  13/50 | step     575 | loss 0.10749 | lr 1.99e-04
+Epoch  13/50 completed in 242.0s | train 0.07863 | validation 0.07394
+Saved checkpoint: image_diffusion_model.pth
+Epoch  14/50 | step     600 | loss 0.06136 | lr 1.98e-04
+Epoch  14/50 | step     625 | loss 0.07368 | lr 1.97e-04
+Epoch  14/50 completed in 241.5s | train 0.07571 | validation 0.07956
+Saved checkpoint: image_diffusion_model.pth
+Epoch  15/50 | step     650 | loss 0.05522 | lr 1.96e-04
+Epoch  15/50 | step     675 | loss 0.02476 | lr 1.95e-04
+Epoch  15/50 completed in 241.6s | train 0.07598 | validation 0.06772
+Saved checkpoint: image_diffusion_model.pth
+Epoch  16/50 | step     700 | loss 0.08846 | lr 1.94e-04
+Epoch  16/50 completed in 239.6s | train 0.07278 | validation 0.05618
+Saved checkpoint: image_diffusion_model.pth
+Epoch  17/50 | step     725 | loss 0.07473 | lr 1.92e-04
+Epoch  17/50 | step     750 | loss 0.09828 | lr 1.90e-04
+Epoch  17/50 completed in 238.0s | train 0.07228 | validation 0.06239
+Saved checkpoint: image_diffusion_model.pth
+Epoch  18/50 | step     775 | loss 0.07663 | lr 1.88e-04
+Epoch  18/50 | step     800 | loss 0.07650 | lr 1.86e-04
+Epoch  18/50 completed in 244.7s | train 0.06854 | validation 0.05560
+Saved checkpoint: image_diffusion_model.pth
+Epoch  19/50 | step     825 | loss 0.06610 | lr 1.83e-04
+Epoch  19/50 | step     850 | loss 0.07476 | lr 1.81e-04
+Epoch  19/50 completed in 232.9s | train 0.06795 | validation 0.05956
+Saved checkpoint: image_diffusion_model.pth
+Epoch  20/50 | step     875 | loss 0.04318 | lr 1.78e-04
+Epoch  20/50 | step     900 | loss 0.02140 | lr 1.75e-04
+Epoch  20/50 completed in 241.9s | train 0.06477 | validation 0.06329
+Saved checkpoint: image_diffusion_model.pth
+Epoch  21/50 | step     925 | loss 0.05084 | lr 1.72e-04
+Epoch  21/50 completed in 235.0s | train 0.06649 | validation 0.04781
+Saved checkpoint: image_diffusion_model.pth
+Epoch  22/50 | step     950 | loss 0.06199 | lr 1.69e-04
+Epoch  22/50 | step     975 | loss 0.05379 | lr 1.66e-04
+Epoch  22/50 completed in 241.8s | train 0.06530 | validation 0.05639
+Saved checkpoint: image_diffusion_model.pth
+Epoch  23/50 | step    1000 | loss 0.06147 | lr 1.62e-04
+Epoch  23/50 | step    1025 | loss 0.04749 | lr 1.59e-04
+Epoch  23/50 completed in 267.9s | train 0.06186 | validation 0.04551
+Saved checkpoint: image_diffusion_model.pth
+Epoch  24/50 | step    1050 | loss 0.04033 | lr 1.55e-04
+Epoch  24/50 | step    1075 | loss 0.04910 | lr 1.51e-04
+Epoch  24/50 completed in 279.1s | train 0.05850 | validation 0.06296
+Saved checkpoint: image_diffusion_model.pth
+Epoch  25/50 | step    1100 | loss 0.06309 | lr 1.47e-04
+Epoch  25/50 | step    1125 | loss 0.10378 | lr 1.43e-04
+Epoch  25/50 completed in 264.0s | train 0.05744 | validation 0.05325
+Saved checkpoint: image_diffusion_model.pth
+Epoch  26/50 | step    1150 | loss 0.06490 | lr 1.39e-04
+Epoch  26/50 completed in 260.9s | train 0.06025 | validation 0.05211
+Saved checkpoint: image_diffusion_model.pth
+Epoch  27/50 | step    1175 | loss 0.06160 | lr 1.35e-04
+Epoch  27/50 | step    1200 | loss 0.07009 | lr 1.31e-04
+Epoch  27/50 completed in 261.6s | train 0.06287 | validation 0.04603
+Saved checkpoint: image_diffusion_model.pth
+Epoch  28/50 | step    1225 | loss 0.07619 | lr 1.27e-04
+Epoch  28/50 | step    1250 | loss 0.04600 | lr 1.22e-04
+Epoch  28/50 completed in 261.3s | train 0.05989 | validation 0.05283
+Saved checkpoint: image_diffusion_model.pth
+Epoch  29/50 | step    1275 | loss 0.05199 | lr 1.18e-04
+Epoch  29/50 | step    1300 | loss 0.07280 | lr 1.13e-04
+Epoch  29/50 completed in 261.6s | train 0.06034 | validation 0.05193
+Saved checkpoint: image_diffusion_model.pth
+Epoch  30/50 | step    1325 | loss 0.06019 | lr 1.09e-04
+Epoch  30/50 | step    1350 | loss 0.01330 | lr 1.04e-04
+Epoch  30/50 completed in 261.2s | train 0.05592 | validation 0.05384
+Saved checkpoint: image_diffusion_model.pth
+Epoch  31/50 | step    1375 | loss 0.08129 | lr 1.00e-04
+Epoch  31/50 completed in 260.7s | train 0.05717 | validation 0.04904
+Saved checkpoint: image_diffusion_model.pth
+Epoch  32/50 | step    1400 | loss 0.05706 | lr 9.55e-05
+Epoch  32/50 | step    1425 | loss 0.04385 | lr 9.10e-05
+Epoch  32/50 completed in 260.7s | train 0.05527 | validation 0.04837
+Saved checkpoint: image_diffusion_model.pth
+Epoch  33/50 | step    1450 | loss 0.04369 | lr 8.66e-05
+Epoch  33/50 | step    1475 | loss 0.07185 | lr 8.21e-05
+Epoch  33/50 completed in 267.9s | train 0.05684 | validation 0.05147
+Saved checkpoint: image_diffusion_model.pth
+Epoch  34/50 | step    1500 | loss 0.05539 | lr 7.77e-05
+Epoch  34/50 | step    1525 | loss 0.09379 | lr 7.34e-05
+Epoch  34/50 completed in 260.4s | train 0.05551 | validation 0.06820
+Saved checkpoint: image_diffusion_model.pth
+Epoch  35/50 | step    1550 | loss 0.04125 | lr 6.91e-05
+Epoch  35/50 | step    1575 | loss 0.01343 | lr 6.49e-05
+Epoch  35/50 completed in 260.8s | train 0.05732 | validation 0.05652
+Saved checkpoint: image_diffusion_model.pth
+Epoch  36/50 | step    1600 | loss 0.04864 | lr 6.07e-05
+Epoch  36/50 completed in 268.0s | train 0.05537 | validation 0.05697
+Saved checkpoint: image_diffusion_model.pth
+Epoch  37/50 | step    1625 | loss 0.05483 | lr 5.66e-05
+Epoch  37/50 | step    1650 | loss 0.05375 | lr 5.26e-05
+Epoch  37/50 completed in 260.5s | train 0.05783 | validation 0.05074
+Saved checkpoint: image_diffusion_model.pth
+Epoch  38/50 | step    1675 | loss 0.04748 | lr 4.87e-05
+Epoch  38/50 | step    1700 | loss 0.04362 | lr 4.49e-05
+Epoch  38/50 completed in 256.6s | train 0.05466 | validation 0.04884
+Saved checkpoint: image_diffusion_model.pth
+Epoch  39/50 | step    1725 | loss 0.07701 | lr 4.12e-05
+Epoch  39/50 | step    1750 | loss 0.05022 | lr 3.77e-05
+Epoch  39/50 completed in 258.1s | train 0.05655 | validation 0.06471
+Saved checkpoint: image_diffusion_model.pth
+Epoch  40/50 | step    1775 | loss 0.05398 | lr 3.42e-05
+Epoch  40/50 | step    1800 | loss 0.10334 | lr 3.09e-05
+Epoch  40/50 completed in 255.9s | train 0.05194 | validation 0.03847
+Saved checkpoint: image_diffusion_model.pth
+Epoch  41/50 | step    1825 | loss 0.06229 | lr 2.77e-05
+Epoch  41/50 completed in 256.0s | train 0.05336 | validation 0.05533
+Saved checkpoint: image_diffusion_model.pth
+Epoch  42/50 | step    1850 | loss 0.05327 | lr 2.47e-05
+Epoch  42/50 | step    1875 | loss 0.06881 | lr 2.18e-05
+Epoch  42/50 completed in 256.9s | train 0.05556 | validation 0.04861
+Saved checkpoint: image_diffusion_model.pth
+Epoch  43/50 | step    1900 | loss 0.06622 | lr 1.91e-05
+Epoch  43/50 | step    1925 | loss 0.03716 | lr 1.65e-05
+Epoch  43/50 completed in 256.7s | train 0.05384 | validation 0.04001
+Saved checkpoint: image_diffusion_model.pth
+Epoch  44/50 | step    1950 | loss 0.05843 | lr 1.42e-05
+Epoch  44/50 | step    1975 | loss 0.09421 | lr 1.19e-05
+Epoch  44/50 completed in 256.7s | train 0.05438 | validation 0.05312
+Saved checkpoint: image_diffusion_model.pth
+Epoch  45/50 | step    2000 | loss 0.05414 | lr 9.90e-06
+Epoch  45/50 | step    2025 | loss 0.03337 | lr 8.05e-06
+Epoch  45/50 completed in 256.3s | train 0.05176 | validation 0.04446
+Saved checkpoint: image_diffusion_model.pth
+Epoch  46/50 | step    2050 | loss 0.04779 | lr 6.38e-06
+Epoch  46/50 completed in 257.3s | train 0.05352 | validation 0.05728
+Saved checkpoint: image_diffusion_model.pth
+Epoch  47/50 | step    2075 | loss 0.05826 | lr 4.89e-06
+Epoch  47/50 | step    2100 | loss 0.04452 | lr 3.60e-06
+Epoch  47/50 completed in 256.4s | train 0.04851 | validation 0.05644
+Saved checkpoint: image_diffusion_model.pth
+Epoch  48/50 | step    2125 | loss 0.03923 | lr 2.51e-06
+Epoch  48/50 | step    2150 | loss 0.04012 | lr 1.61e-06
+Epoch  48/50 completed in 256.3s | train 0.05023 | validation 0.04633
+Saved checkpoint: image_diffusion_model.pth
+Epoch  49/50 | step    2175 | loss 0.04949 | lr 9.05e-07
+Epoch  49/50 | step    2200 | loss 0.05815 | lr 4.03e-07
+Epoch  49/50 completed in 257.2s | train 0.05412 | validation 0.04448
+Saved checkpoint: image_diffusion_model.pth
+Epoch  50/50 | step    2225 | loss 0.04627 | lr 1.01e-07
+Epoch  50/50 | step    2250 | loss 0.04259 | lr 0.00e+00
+Epoch  50/50 completed in 257.6s | train 0.05329 | validation 0.05082
+Saved checkpoint: image_diffusion_model.pth
+Diffusion training completed.
